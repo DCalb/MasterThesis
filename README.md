@@ -8,7 +8,7 @@
   - Solidity: Raffle.sol
   - Solidity: Raffle_Oraclize_0.1.sol
     
- ## Master Thesis Project Files:
-   - Solidity: IOT_OPT_0.1.sol
-   - Python Optimization: OPT_PY_0.8_PULP.py
-   - Python LED: LED_OPT_1.1.py
+## Master Thesis Project Files:
+  - Solidity: IOT_OPT_0.1.sol
+  - Python Optimization: OPT_PY_0.8_PULP.py
+  - Python LED: LED_OPT_1.1.py
